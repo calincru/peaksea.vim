@@ -8,4 +8,4 @@ repository. It is a little bit different (e.g. the foldcolumn color).
 Just add `Plugin 'crucerucalin/peaksea.vim'` in your `~/.vimrc`.
 
 #### Colors when editing a C++ file
-![screenshot](http://i.imgur.com/1K69YJt.png)
+![screenshot](http://i.imgur.com/5Tpe6Sj.jpg)
