@@ -558,7 +558,7 @@ elseif &background=='dark'
 
       hi TabLine    ctermfg=fg  ctermbg=Black   cterm=NONE
       hi TabLineFill    ctermfg=fg  ctermbg=Black   cterm=NONE
-      hi TabLineSel ctermfg=fg  ctermbg=NONE    cterm=NONE
+      hi TabLineSel ctermfg=fg  ctermbg=DarkGrey    cterm=NONE
 
       hi CursorColumn   ctermfg=NONE    ctermbg=88  cterm=NONE
       hi CursorLine ctermfg=NONE    ctermbg=NONE    cterm=underline
